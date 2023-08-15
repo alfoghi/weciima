@@ -1,0 +1,1 @@
+next_page = 'https://weciimaa.online/download-series/?page_number=2/'
